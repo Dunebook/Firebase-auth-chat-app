@@ -2,7 +2,7 @@ import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/database";
 const config = {
-  apiKey: "AIzaSyBzk5hQ1ILipsKI2zlwagfbogOSn9YQBTw",
+  apiKey: "your api key here",
   authDomain: "chatty-36be6.firebaseapp.com",
   databaseURL: "https://chatty-36be6.firebaseio.com"
 };
